@@ -28,4 +28,4 @@ npm install
 npm run dev
 ```
 
-![Frontend View](https://i.ibb.co/4FQZV9S/Screenshot.png)
+![Frontend View](https://i.ibb.co/xmXNxwn/Screenshot.png)
